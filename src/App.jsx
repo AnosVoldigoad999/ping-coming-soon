@@ -1,6 +1,6 @@
 import './App.css'
-import { PiTwitterLogoThin, PiFacebookLogoThin, PiInstagramLogoThin } from 'react-icons/pi'
-
+import { PiInstagramLogo } from 'react-icons/pi'
+import { RiFacebookFill, RiTwitterFill  } from 'react-icons/ri'
 export default function App (){
   return <>
   <header><img className="logo" /></header>
@@ -11,7 +11,10 @@ export default function App (){
       <label htmlFor="email">
         Subscribe and get notified
       </label>
-      <input type="email" id="email" />
+      <div className='form'>
+      <input placeholder='example@email.com' type="email" id="email" />
+      <button>Notify me</button>
+      </div>
     </form>
     <br />
     <img className="other" />
@@ -19,11 +22,11 @@ export default function App (){
   </main>
   <footer>
     <div className='icons'>
-      <PiFacebookLogoThin className='icon' />
-      <PiTwitterLogoThin className='icon' />
-      <PiInstagramLogoThin className='icon' />
+      <RiFacebookFill className='icon' />
+      <RiTwitterFill className='icon' />
+      <PiInstagramLogo className='icon' />
     </div>
-    <p> Copyright Ping. All rights reserved</p>
+    <p> ©Copyright Ping. All rights reserved</p>
   </footer>
   </>
 }
