@@ -188,11 +188,11 @@ main{
   
   footer{
     min-width: 300px;
-    margin: 0 auto;
+    margin-top: 150px;
   }
-  
+   
   header{
-    margin: 0 auto;
+    margin: 50px 0;
   }
   
   button:active{
