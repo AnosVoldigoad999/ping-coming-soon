@@ -30,7 +30,7 @@ header{
   display: flex;
   flex-direction: row;
   justify-content: center;
-  padding-top: 3vh;
+  margin: 45px 0;
 }
 
 form{
