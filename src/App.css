@@ -178,52 +178,53 @@ main{
     margin: 0 auto;
   }
 
+  label{
+    font-size: 90%;
+  }
+  
+  p{
+    font-size: 90%;
+  }
+  
+  footer{
+    min-width: 300px;
+    margin: 0 auto;
+  }
+  
+  header{
+    margin: 0 auto;
+  }
+  
+  button:active{
+    cursor: pointer;
+    background-color: #5297fd;
+  }
+  
+  button:hover{
+    background-color: #0d6efd;
+  }
+  
+  .icon:hover{
+    border: none;
+    padding: none;
+    border-radius: 0;
+    color: #0d6efd ;
+    background-color: white;
+    cursor: pointer;
+    transition: 0s;
+  }
+  
+  .icon:active{
+    border: 1px solid #0d6efd;
+    padding: 5px;
+    border-radius: 20px;
+    color: hsl(0, 0%, 100%);
+    background-color: #0d6efd;
+    cursor: pointer;
+    transition: 0.25s;
+  }
 }
 
-label{
-  font-size: 90%;
-}
 
-p{
-  font-size: 90%;
-}
-
-footer{
-  min-width: 300px;
-  margin: 0 auto;
-}
-
-header{
-  margin: 0 auto;
-}
-
-button:active{
-  cursor: pointer;
-  background-color: #5297fd;
-}
-
-button:hover{
-  background-color: #0d6efd;
-}
-
-.icon:hover{
-  border: none;
-  padding: none;
-  border-radius: 0;
-  color: #0d6efd ;
-  background-color: white;
-  cursor: pointer;
-  transition: 0s;
-}
-
-.icon:active{
-  border: 1px solid #0d6efd;
-  padding: 5px;
-  border-radius: 20px;
-  color: hsl(0, 0%, 100%);
-  background-color: #0d6efd;
-  cursor: pointer;
-  transition: 0.25s;
-}
 
 /*mobile*/
