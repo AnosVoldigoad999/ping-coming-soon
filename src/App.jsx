@@ -1,18 +1,22 @@
 import './App.css'
+import { useState } from 'react'; 
 import { PiInstagramLogo } from 'react-icons/pi'
 import { RiFacebookFill, RiTwitterFill  } from 'react-icons/ri'
+import { useForm } from 'react-hook-form'
 export default function App (){
+  const [email, setEmail] = useState('');
+ 
   return <>
   <header><img className="logo" /></header>
   <main>
     <div className="container">
     <h1>We are launching <strong>soon!</strong></h1>
-    <form>
+    <form onSubmit={(e)=>e.preventDefault()}>
       <label htmlFor="email">
         Subscribe and get notified
       </label>
       <div className='form'>
-      <input placeholder='example@email.com' type="email" id="email" />
+      <input required='true' minLength={4}  placeholder='example@email.com'  type="email" id="email"  />
       <button>Notify me</button>
       </div>
     </form>
