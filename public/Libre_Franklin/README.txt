@@ -1,36 +1,36 @@
-Overpass Variable Font
-======================
+Libre Franklin Variable Font
+============================
 
-This download contains Overpass as both variable fonts and static fonts.
+This download contains Libre Franklin as both variable fonts and static fonts.
 
-Overpass is a variable font with this axis:
+Libre Franklin is a variable font with this axis:
   wght
 
 This means all the styles are contained in these files:
-  Overpass-VariableFont_wght.ttf
-  Overpass-Italic-VariableFont_wght.ttf
+  LibreFranklin-VariableFont_wght.ttf
+  LibreFranklin-Italic-VariableFont_wght.ttf
 
 If your app fully supports variable fonts, you can now pick intermediate styles
 that aren’t available as static fonts. Not all apps support variable fonts, and
-in those cases you can use the static font files for Overpass:
-  static/Overpass-Thin.ttf
-  static/Overpass-ExtraLight.ttf
-  static/Overpass-Light.ttf
-  static/Overpass-Regular.ttf
-  static/Overpass-Medium.ttf
-  static/Overpass-SemiBold.ttf
-  static/Overpass-Bold.ttf
-  static/Overpass-ExtraBold.ttf
-  static/Overpass-Black.ttf
-  static/Overpass-ThinItalic.ttf
-  static/Overpass-ExtraLightItalic.ttf
-  static/Overpass-LightItalic.ttf
-  static/Overpass-Italic.ttf
-  static/Overpass-MediumItalic.ttf
-  static/Overpass-SemiBoldItalic.ttf
-  static/Overpass-BoldItalic.ttf
-  static/Overpass-ExtraBoldItalic.ttf
-  static/Overpass-BlackItalic.ttf
+in those cases you can use the static font files for Libre Franklin:
+  static/LibreFranklin-Thin.ttf
+  static/LibreFranklin-ExtraLight.ttf
+  static/LibreFranklin-Light.ttf
+  static/LibreFranklin-Regular.ttf
+  static/LibreFranklin-Medium.ttf
+  static/LibreFranklin-SemiBold.ttf
+  static/LibreFranklin-Bold.ttf
+  static/LibreFranklin-ExtraBold.ttf
+  static/LibreFranklin-Black.ttf
+  static/LibreFranklin-ThinItalic.ttf
+  static/LibreFranklin-ExtraLightItalic.ttf
+  static/LibreFranklin-LightItalic.ttf
+  static/LibreFranklin-Italic.ttf
+  static/LibreFranklin-MediumItalic.ttf
+  static/LibreFranklin-SemiBoldItalic.ttf
+  static/LibreFranklin-BoldItalic.ttf
+  static/LibreFranklin-ExtraBoldItalic.ttf
+  static/LibreFranklin-BlackItalic.ttf
 
 Get started
 -----------

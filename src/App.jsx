@@ -16,7 +16,7 @@ export default function App (){
         Subscribe and get notified
       </label>
       <div className='form'>
-      <input required='true' minLength={4}  placeholder='example@email.com'  type="email" id="email"  />
+      <input required={true} minLength={4}  placeholder='example@email.com'  type="email" id="email"  />
       <button>Notify me</button>
       </div>
     </form>
