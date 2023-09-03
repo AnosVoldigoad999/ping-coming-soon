@@ -119,7 +119,7 @@ footer{
 .icon{
   height: 30px;
   width: 30px;
-  color: #0d6efd;
+  color: hsl(223, 87%, 63%);
   margin-right: 20px;
 }
 
@@ -131,11 +131,11 @@ button:hover{
 }
 
 .icon:hover{
-  border: 1px solid #0d6efd;
+  border: 1px solid hsl(223, 87%, 63%);
   padding: 5px;
   border-radius: 20px;
   color: hsl(0, 0%, 100%);
-  background-color: #0d6efd;
+  background-color: hsl(223, 87%, 63%);
   cursor: pointer;
   transition: 0.25s;
 }
@@ -200,29 +200,29 @@ main{
   
   button:active{
     cursor: pointer;
-    background-color: #5297fd;
+    background-color: hsl(223, 83%, 76%);
   }
   
   button:hover{
-    background-color: #0d6efd;
+    background-color: hsl(223, 87%, 63%);
   }
   
   .icon:hover{
     border: none;
     padding: none;
     border-radius: 0;
-    color: #0d6efd ;
+    color: hsl(223, 87%, 63%) ;
     background-color: white;
     cursor: pointer;
     transition: 0s;
   }
   
   .icon:active{
-    border: 1px solid #0d6efd;
+    border: 1px solid hsl(223, 87%, 63%);
     padding: 5px;
     border-radius: 20px;
     color: hsl(0, 0%, 100%);
-    background-color: #0d6efd;
+    background-color: hsl(223, 87%, 63%);
     cursor: pointer;
     transition: 0.25s;
   }
