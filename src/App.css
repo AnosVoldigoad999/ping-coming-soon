@@ -99,6 +99,19 @@ strong{
   height: 100%;
 }
 
+.red{
+  border-color:  hsl(354, 100%, 66%);
+  transition: 0.5s;
+}
+
+span{
+  font-size: 80%;
+  color:  hsl(354, 100%, 66%);
+  position: relative;
+  right: 23%;
+}
+
+
 main{
   display: flex;
   flex-direction: column;
@@ -155,7 +168,7 @@ button:hover{
 
 
 input{
-  margin-bottom: 25px;
+  margin-bottom: 35px;
   width: 90%;
   padding: 12px;
   min-width: 100px;
@@ -169,6 +182,14 @@ button{
 
 h1{
   font-size: 150%;
+}
+
+span{
+  font-size: 70%;
+  color:  hsl(354, 100%, 66%);
+  position: relative;
+  bottom: 70px;
+  right: -2%;
 }
 
 main{
