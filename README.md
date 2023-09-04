@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/ping-coming-soon-page-solution-4PQbnWbG_P](https://www.frontendmentor.io/solutions/ping-coming-soon-page-solution-4PQbnWbG_P)
 - Live Site URL: [https://ping-coming-soon-test.vercel.app/](https://ping-coming-soon-test.vercel.app/)
 
 ## My process
